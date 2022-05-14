@@ -1,10 +1,10 @@
-Sources for the plugin `plugin.samsung.iap`.
+Sources for the plugin `plugin.materialYouColors`.
 
 Add following to your `build.settings` to use:
 ```lua
 {
     plugins = {
-        "plugin.samasung.iap" = {
+        "plugin.materialYouColors" = {
             publisherId = "com.solar2d",
         },
     },
